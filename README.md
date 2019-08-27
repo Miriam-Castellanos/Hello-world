@@ -1,7 +1,11 @@
-# Hello-world
-Proyecto inicial para aprender a usar y manejar git y github
+﻿# Hello-world
 
 
-## Esta es una modificación 
+Proyecto inicial para aprender a usar git y github
 
-Que se hizo en la rama readme-edits 
+
+
+Lista para ver cambios en el repositorio local
+
++ Cambio 1
++ Cambio 2
